@@ -17,7 +17,7 @@ I'm coding a simple product introduction page.
 ⚒️ Core Tech Stack
 </h2>
 
-- ⭐️ &nbsp; [CSS]
+- ⭐️ &nbsp; CSS
 - ❤ &nbsp; [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 - 🧡 &nbsp; [JavaScript](https://www.javascript.com/)
 - ➕ &nbsp; Bonus Features
