@@ -2,6 +2,10 @@
    CSS - Product Landing Page
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/css-product-landing-page/assets/111967202/8cff677a-d534-45a5-b13d-e6733bc1a042" width="700" />
 </p>
